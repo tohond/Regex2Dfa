@@ -11,7 +11,7 @@ import java.util.Objects;
 
 /**
  *
- * @author Administrador
+ * @author tohon
  */
 public class Estado {
 
